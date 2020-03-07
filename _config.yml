@@ -1,2 +1,19 @@
 # theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-console
+
+# Example Site settings
+
+#google_analytics: UA-NNNNNNNN-N
+
+header_pages:
+ - index.md
+ - sound.md
+ - vision.md
+
+footer: '<a href="https://twitter.com/agw62">twitter</a>'
+
+style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag

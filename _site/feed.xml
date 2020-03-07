@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-07T00:00:55+00:00</updated><id>http://localhost:4000/feed.xml</id><entry><title type="html">Testing…testing</title><link href="http://localhost:4000/general/2020/03/06/testing.html" rel="alternate" type="text/html" title="Testing...testing" /><published>2020-03-06T22:00:00+00:00</published><updated>2020-03-06T22:00:00+00:00</updated><id>http://localhost:4000/general/2020/03/06/testing</id><content type="html" xml:base="http://localhost:4000/general/2020/03/06/testing.html">&lt;p&gt;Just a quick test post. I’m hoping to update the site soon to contain a few things:
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;P5.js sketches that I use for my pen plotter&lt;/li&gt;
+  &lt;li&gt;my pen plotter workflow&lt;/li&gt;
+  &lt;li&gt;some datavis from my soon to be old job&lt;/li&gt;
+  &lt;li&gt;some more of my visual work&lt;/li&gt;
+  &lt;li&gt;other notes and thoughts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the meantime there’s some sounds on the &lt;a href=&quot;/sound&quot;&gt;sound&lt;/a&gt; page&lt;/p&gt;</content><author><name></name></author><summary type="html">Just a quick test post. I’m hoping to update the site soon to contain a few things:</summary></entry></feed>

@@ -1,0 +1,16 @@
+---
+title: home
+layout: home
+permalink: /
+---
+
+# Alex G-W  
+
+I'm Alex a (lapsed) composer, exploring creative coding and working with a 1980s Roland DXY pen plotter. I also like a little bit of data vis and design, hopefully I'll add some of that soon.   
+<br>
+ 
+  
+
+Recent posts:
+
+

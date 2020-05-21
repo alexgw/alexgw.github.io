@@ -26,9 +26,9 @@ But it was still fun to play with and a good use of some PureData skills I hadn'
 
 Building the synth in PureData did get me thinking about how relatively simple it was to make some elements of the Subharmonicon. Doing some quick maths in my heads I had more than enough oscillators in my synth, a mixer, filters and envelopes. The bits that were missing are:
 
-- the voltage control to manage the sub-oscillators and controlling the division each one is operating on
+*the voltage control to manage the sub-oscillators and controlling the division each one is operating on
 
-- the sequencer including its clever timing maths
+*the sequencer including its clever timing maths
 
 I was struck thinking - it wasn't too bad to make those bits in Pd. How hard could it be to make them on say and Arduino and control the nice sounding bits I already owned?
 

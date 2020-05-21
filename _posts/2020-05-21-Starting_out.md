@@ -15,7 +15,7 @@ Recently the new [Moog Subharmonicon](https://www.moogmusic.com/products/subharm
 
 I'll admit now if it cost a bit less I'd probably have just gone out and bought one. But I didn't. My next step was to have a try in PureData (what if it was bad and then I wouldn't want it?). A friend helpfully pointed out that "your janky pd patch will probably be bad and not a reflection of the synth". - he was right.
 
-<br>
+
 
 But it was still fun to play with and a good use of some PureData skills I hadn't used since university.
 
@@ -24,7 +24,7 @@ But it was still fun to play with and a good use of some PureData skills I hadn'
 -----------------
 
 Building the synth in PureData did get me thinking about how relatively simple it was to make some elements of the Subharmonicon. Doing some quick maths in my heads I had more than enough oscillators in my synth, a mixer, filters and envelopes. The bits that were missing are:
-br>
+
 
 - the voltage control to manage the sub-oscillators and controlling the division each one is operating on
 

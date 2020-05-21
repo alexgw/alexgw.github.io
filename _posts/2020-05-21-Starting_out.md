@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting out: The Subpar Subharmoniclon(e)"
 date:   2020-05-21 00:00:00 +0000
-categories: general, tech, hardware
+categories: hardware
 ---
 
 

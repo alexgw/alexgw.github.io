@@ -4,7 +4,7 @@ function setup() {
 
 
 
-  gui.add(vals, 'spacing', 3, 300);
+  gui.add(vals, 'spacing', 3, 600);
   gui.add(vals, 'stroke_Weight', 0.01, 100);
   gui.add(vals, 'chance', 0, 1);
 

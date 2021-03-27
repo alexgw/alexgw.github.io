@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-05T22:43:00+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">alexgw.github.io</title><entry><title type="html">Testing…testing</title><link href="http://localhost:4000/general/2020/03/06/testing.html" rel="alternate" type="text/html" title="Testing...testing" /><published>2020-03-06T22:00:00+00:00</published><updated>2020-03-06T22:00:00+00:00</updated><id>http://localhost:4000/general/2020/03/06/testing</id><content type="html" xml:base="http://localhost:4000/general/2020/03/06/testing.html">&lt;p&gt;Just a quick test post. I’m hoping to update the site soon to contain a few things:
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-27T15:56:58+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">alexgw.github.io</title><entry><title type="html">Tracks with the Tracker</title><link href="http://localhost:4000/hardware/2021/03/26/Tracks.html" rel="alternate" type="text/html" title="Tracks with the Tracker" /><published>2021-03-26T00:00:00+00:00</published><updated>2021-03-26T00:00:00+00:00</updated><id>http://localhost:4000/hardware/2021/03/26/Tracks</id><content type="html" xml:base="http://localhost:4000/hardware/2021/03/26/Tracks.html">&lt;h2 id=&quot;some-tracks&quot;&gt;Some tracks&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Let’s try this&lt;/p&gt;
+
+&lt;p&gt;[[https://alexgw.github.io/media/audio/tracker1-norm.mp3]]&lt;/p&gt;</content><author><name></name></author><category term="hardware" /><summary type="html">Some tracks</summary></entry><entry><title type="html">Starting out: The Subpar Subharmoniclon(e)</title><link href="http://localhost:4000/hardware/2020/05/21/Starting_out.html" rel="alternate" type="text/html" title="Starting out: The Subpar Subharmoniclon(e)" /><published>2020-05-21T01:00:00+01:00</published><updated>2020-05-21T01:00:00+01:00</updated><id>http://localhost:4000/hardware/2020/05/21/Starting_out</id><content type="html" xml:base="http://localhost:4000/hardware/2020/05/21/Starting_out.html">&lt;h2 id=&quot;the-beginning&quot;&gt;The Beginning&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Recently the new &lt;a href=&quot;https://www.moogmusic.com/products/subharmonicon&quot;&gt;Moog Subharmonicon&lt;/a&gt; came out and I was struck by the worst bout of gear acquisition syndrome I’ve experienced for about 5 years. I immediately attempted to recreate it with my modular, with not great success.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll admit now if it cost a bit less I’d probably have just gone out and bought one. But I didn’t. My next step was to have a try in PureData (what if it was bad and then I wouldn’t want it?). A friend helpfully pointed out that “your janky pd patch will probably be bad and not a reflection of the synth”. - he was right.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But it was still fun to play with and a good use of some PureData skills I hadn’t used since university.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-current-idea&quot;&gt;The Current Idea&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;Building the synth in PureData did get me thinking about how relatively simple it was to make some elements of the Subharmonicon. Doing some quick maths in my heads I had more than enough oscillators in my synth, a mixer, filters and envelopes. The bits that were missing are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;the voltage control to manage the sub-oscillators and controlling the division each one is operating on&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;the sequencer including its clever timing maths&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I was struck thinking - it wasn’t too bad to make those bits in Pd. How hard could it be to make them on say and Arduino and control the nice sounding bits I already owned?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;With that idea firmly seeded I ordered an Arduino and got to researching. How hard can it be?&lt;/p&gt;</content><author><name></name></author><category term="hardware" /><summary type="html">The Beginning</summary></entry><entry><title type="html">Testing…testing</title><link href="http://localhost:4000/general/2020/03/06/testing.html" rel="alternate" type="text/html" title="Testing…testing" /><published>2020-03-06T22:00:00+00:00</published><updated>2020-03-06T22:00:00+00:00</updated><id>http://localhost:4000/general/2020/03/06/testing</id><content type="html" xml:base="http://localhost:4000/general/2020/03/06/testing.html">&lt;p&gt;Just a quick test post. I’m hoping to update the site soon to contain a few things:
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -11,4 +48,4 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;In the meantime there’s some sounds on the &lt;a href=&quot;/sound&quot;&gt;sound&lt;/a&gt; page&lt;/p&gt;</content><author><name></name></author><summary type="html">Just a quick test post. I’m hoping to update the site soon to contain a few things:</summary></entry></feed>
+&lt;p&gt;In the meantime there’s some sounds on the &lt;a href=&quot;/sound&quot;&gt;sound&lt;/a&gt; page&lt;/p&gt;</content><author><name></name></author><category term="general" /><summary type="html">Just a quick test post. I’m hoping to update the site soon to contain a few things:</summary></entry></feed>

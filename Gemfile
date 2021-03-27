@@ -14,7 +14,8 @@ gem "jekyll-theme-console"
 gem 'jekyll-seo-tag'
 
 
-gem "kramdown", ">= 2.3.0"
+#gem "kramdown", ">= 2.3.0"
+gem 'jekyll-redirect-from'
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and

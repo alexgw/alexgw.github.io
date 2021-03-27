@@ -4,8 +4,6 @@ title: vision
 permalink: /vision/
 ---
 
-# Some of design/visual stuff   
-<br>
 
 [coming soon]<br/><br/>
 

@@ -5,4 +5,4 @@ permalink: /photos/
 ---
 
 
-Some photos
+Some photos:

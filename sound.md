@@ -12,6 +12,13 @@ redirect_from:
 
 Some recent sketches
 
+# Harmonic Flux <br/> <br/>
+
+More sketches with the Tracker and a bigger setup
+
+Gear: Electric Guitar, Polyend tracker, Eurorack, Quadraverb and Dictaphone
+
+/media/audio/Harmonic-flux.mp3
 
 
 # Tracker test <br/> <br/>
